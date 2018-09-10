@@ -1,0 +1,44 @@
+05-03 23:14:47.642  DEBUG/MDictApp(7924): Home dir:C:/Users/Blocker/Desktop/MDictPC/doc/
+05-03 23:14:47.644  DEBUG/MDictApp(7924): ICU inited with data dir:C:/Users/Blocker/Desktop/MDictPC/res/
+
+05-03 23:14:47.644  INFO/MDictApp(7924): Fail to init localization translation file
+05-03 23:14:47.645  INFO/MDictApp(7924): Found 0 speech databases
+05-03 23:14:47.646  INFO/MDictPCApp(7924): Searching font files...
+05-03 23:14:47.646  INFO/MDictPCApp(7924): Found 0 font files
+05-03 23:14:47.646  DEBUG/MDictPCApp(7924): Load font resource done
+05-03 23:14:47.646  INFO/MDictPCApp(7924): Begin loading html templates
+05-03 23:14:47.647  INFO/MDictPCApp(7924): Html templates loaded
+05-03 23:14:47.647  DEBUG/MDictPCApp(7924): Creating mainframe
+05-03 23:14:47.682  DEBUG/MDictApp(7924): OnCreating MainFrame
+05-03 23:14:47.682  DEBUG/MDictApp(7924): Registering message loop
+05-03 23:14:47.682  DEBUG/MDictApp(7924): Create view client
+05-03 23:14:47.683  DEBUG/CMDictView(7924): Creating input window and splitter
+05-03 23:14:47.690  DEBUG/CMDictView(7924): Creating entry window and mdx view
+05-03 23:14:47.694  DEBUG/CMDXView(7924): Creating mdx view
+05-03 23:14:47.694  DEBUG/CMDXView(7924): Creating html view
+05-03 23:14:47.760  DEBUG/CMDXView(7924): Creating tab ctrl
+05-03 23:14:47.763  DEBUG/CMDXView(7924): Layout mdx view
+05-03 23:14:47.764  DEBUG/CMDictView(7924): Setting up window
+05-03 23:14:47.766  DEBUG/MDictApp(7924): Create command bar
+05-03 23:14:47.777  DEBUG/MDictApp(7924): Create tool bar
+05-03 23:14:47.779  DEBUG/MDictApp(7924): Create re-bar
+05-03 23:14:47.787  DEBUG/MDictPCApp(7924): Init TTS engine
+05-03 23:14:47.998  DEBUG/MDictPCApp(7924): TTS inited
+05-03 23:14:47.998  DEBUG/MDictApp(7924): Fill toolbar combox of TTS engine
+05-03 23:14:48.004  DEBUG/MDictApp(7924): Install task bar icon
+05-03 23:14:48.023  DEBUG/MDictApp(7924): Register hotkey
+05-03 23:14:48.023  DEBUG/MDictApp(7924): Restore last window size and position
+05-03 23:14:48.061  DEBUG/MDictPCApp(7924): Mainframe created
+05-03 23:14:48.061  DEBUG/MDictPCApp(7924): Create and register handler factory
+05-03 23:14:48.061  DEBUG/MDictPCApp(7924): IWebbrowser helper object inited
+05-03 23:14:48.061  DEBUG/MDictPCApp(7924): Open last dict
+05-03 23:14:48.071  DEBUG/MDictPCApp(7924): MDict App init completed
+05-03 23:14:48.071  DEBUG/MDictPCApp(7924): Show welcome page
+05-04 00:03:47.805  DEBUG/MDictApp(7924): Closing CMainFrame
+05-04 00:03:47.805  DEBUG/MDictApp(7924): Release TTS tokens
+05-04 00:03:47.811  DEBUG/CMDictView(7924): Destroying CMDictView
+05-04 00:03:47.811  DEBUG/CMDXView(7924): Destroying CMDXView
+05-04 00:03:47.850  DEBUG/MDictApp(7924): Destructing CMainFrame
+05-04 00:03:47.880  DEBUG/CMDictView(7924): Destructing CMDictView
+05-04 00:03:47.880  DEBUG/CMDXView(7924): Destructing CMDXView
+05-04 00:03:47.914  DEBUG/CMDXView(7924): Htmlview released

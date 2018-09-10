@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <META http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<style type="text/css">
+    body{
+        background-color:$background_color$;
+        color:$font_color$;
+        font-family:"$font_face$";
+    }
+</style>
+    $extra_header$
+    <style>
+    $css$
+    </style>
+<script>
+<!--
+$jscode$
+
+var expand_single=$expand_single$;
+function ToggleShow(elemId, arrowId){
+
+    var elem = document.getElementById(elemId);
+    var arrow = document.getElementById(arrowId)
+
+    var visible= (elem.className == "mdx_dict_block_collapse");
+    if ( visible && expand_single ){
+        ShowAllBlock(false, false, elemId);
+    }
+    elem.className=visible? "mdx_dict_block_expand":"mdx_dict_block_collapse";
+    arrow.src=visible?"content://mdict.cn/res/arrow_down.png":"content://mdict.cn/res/arrow_up.png";
+}
+
+
+function ShowAllBlock(visible, onlyFirstOne, exceptElementId){
+    allArrowImgs=document.getElementsByName("mdx_arrow_img");
+    var localVisible=visible;
+    for(i=0; i<allArrowImgs.length; ++i){
+        allArrowImgs[i].src=localVisible?"content://mdict.cn/res/arrow_down.png":"content://mdict.cn/res/arrow_up.png";
+        if (onlyFirstOne)
+            localVisible=false;
+    }
+
+    allBlockDivs=document.getElementsByTagName("div");
+    localVisible=visible;
+    for(i=0; i<allBlockDivs.length; ++i){
+        if (allBlockDivs[i].name=="mdx_block_div" && allBlockDivs[i].id!=exceptElementId){
+            allBlockDivs[i].className=localVisible?"mdx_dict_block_expand":"mdx_dict_block_collapse";
+            if (onlyFirstOne)
+                localVisible=false;
+        }
+    }
+}
+
+function SetupMdx(){
+    //SetupTouchEventListener();
+
+    var expand_all=$start_expand_all$;
+    ShowAllBlock(true, !expand_all, "");
+    
+    window.location.hash="@@@DocumentComplete";
+}
+
+-->
+</script>
+<style>
+    .mdx_btn {
+    font-size: 0.7em;
+    line-height: normal;
+    margin-left: 8px;
+    margin-right: 8px;
+
+    padding: 4px 10px 4px 10px;
+    border-radius: 6px;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ececec), to(#d6d6d6));
+    background-image: -webkit-linear-gradient(top, #ececec, #d6d6d6);
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    border-color: #C43C35 #C43C35 #882A25;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    }
+    .mdx_block_title{
+    font-size: 1em;
+    font-weight: bold;
+    border-bottom:#0c0c0c;
+    background: #d6d6d6;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ececec), to(#d6d6d6));
+    background-image: -webkit-linear-gradient(top, #ececec, #d6d6d6);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ececec', endColorstr='#00d6d6d6',GradientType=0 );
+
+    }
+    .mdx_dict_block_expand{
+    display: block
+    }
+    .mdx_dict_block_collapse{
+    display: none
+    }
+    .tabs {font-family:Verdana,Arial,sans-serif;font-size:14px;line-height:29px;position: relative; padding: 1px; zoom: 1; }
+    .tabs ul {font-weight:bold;display:block;border-bottom:1px solid #AAAAAA;height:30px; padding:0; margin:0; padding-left:30px;}
+    .tabs ul li {-moz-border-radius-topleft:4px; -moz-border-radius-topright:4px;height:29px;border-bottom:0 none !important;float:left;list-style:none;margin:0 0.2em 1px 0;padding:0;position:relative;top:1px;white-space:nowrap;color:#555555;font-weight:blod;}
+    .tabs ul li.tabs_active {margin-bottom:0;padding-bottom:1px; border:1px solid #aaa;color:#333;background-color:#fff;}
+    .tabs ul li.tabs_active_title {float:left;padding:0px 8px;text-decoration:none;color:#777;}
+    .tabs ul li.tabs_hover{margin-bottom:0;padding-bottom:1px;border:1px solid #999;}
+    .tabs ul li a {float:left;padding:0.25em 1em;text-decoration:none;cursor:pointer;color:#777;}
+    .tabs ul li.tabs_active a {color:#333;}
+    .tabs ul li.tabs_active a {color:#555555;}
+    .ui-tabs .ui-tabs-panel {border-width:0;display:block;}
+</style>
+</head>
+<body onload="javascript:SetupMdx();">
+

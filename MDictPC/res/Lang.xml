@@ -1,0 +1,844 @@
+<localization>
+    <language id="简体中文">
+        <general>
+            <item name="&amp;Tools" local="工具 (&amp;T)"/>
+            <item name="&amp;View" local="查看 (&amp;V)"/>
+            <item name="&amp;Library" local="词库 (&amp;L)"/>
+            <item name="Library Manager" local="词库管理"/>
+
+            <item name="&amp;Help" local="帮助 (&amp;H)"/>
+            <item name="Options" local="选项"/>
+            <item name="Save Lookup Content" local="保存查询内容"/>
+            <item name="Save Lookup History" local="保存查询历史"/>
+            <item name="About MDict" local="关于MDict"/>
+            <item name="About the Dictionary" local="关于词典"/>
+            <item name="MDict Help" local="程序帮助"/>
+            <item name="Dict default setting" local="默认词典视图选项"/>
+            <item name="Font Size" local="字体大小"/>
+            <item name="Use ClearType" local="使用清晰字体"/>
+            <item name="ClearType" local="清晰字体"/>
+            <item name="Chinese conversion" local="简繁体转换"/>
+            <item name="No Conversion" local="不转换"/>
+            <item name="To Simplified Chinese" local="转换为简体"/>
+            <item name="To Traditional Chinese" local="转换为繁体"/>
+            <item name="Split View" local="分屏模式"/>
+            <item name="Fix Chinese Line Wrap" local="强制中文换行"/>
+            <item name="Apply to all dicts" local="应用到所有词典"/>
+            <item name="Online Lookup" local="在线取词"/>
+            <item name="Current lookup content saved in: %s" local="当前查询内容已保存到: %s"/>
+            <item name="Failed to save lookup content, Err: %d" local="保存当前查询内容失败, 错误码: %d"/>
+            <item name="Save lookup history succeed." local="保存查询记录成功"/>
+            <item name="Save lookup history failed, Err: %d" local="历史记录保存失败，错误码: %d" />
+            <item name="Use popup for online lookup" local="使用弹出窗口显示"/>
+            <item name="Dictionary for online lookup" local="在线取词使用的词典"/>
+            <item name="Word pickup button (Press button to select)" local="取词按钮(可以按设备上的按钮进行选择)"/>
+            <item name="Show picker icon on task bar" local="在任务栏上显示取词图标"/>
+            <item name="Browse" local="浏览"/>
+            <item name="Auto save lookup history" local="自动保存查询记录"/>
+
+            <item name="Free font resource when exit" local="退出时释放字体资源"/>
+            <item name="Audio library path" local="语音库路径"/>
+            <item name="Back To Previous Application" local="返回被取词的程序"/>
+            <item name="Open Dictionary" local="打开词典"/>
+            <item name="Search all" local="列出所有词典"/>
+            <item name="Smallest" local="最小"/>
+            <item name="Smaller" local="小"/>
+            <item name="Medium" local="中"/>
+            <item name="Larger" local="大"/>
+            <item name="Largest" local="最大"/>
+            <item name="Button" local="按钮"/>
+            <item name="Disable" local="禁用"/>
+            <item name="GUI Language" local="界面语言"/>
+            <item name="GUI language(Need restart)" local="界面语言(需要重启动程序)" />
+            <item name="Misc" local="杂项" />
+            <item name="Exit" local="退出" />
+            <item name="Menu" local="菜单" />
+            <item name="Font" local="字体" />
+            <item name="Auto play audio" local="自动播放语音" />
+            <item name="Audio Tools" local="语音工具" />
+            <item name="Use Dictionary Embedded Audio" local="使用词典内嵌的语音" />
+            <item name="Use softkey menu(Need restart)" local="使用软键菜单(需要重启动程序)" />
+
+            <item name="Search" local="查找" />
+            <item name="Advanced Search" local="高级查找" />
+            <item name="Keyword Fuzzy Search" local="关键字模糊查找" />
+            <item name="Keyword Fuzzy Search Next" local="关键字模糊查找下一个" />
+            <item name="Full Text Search" local="全文查找" />
+            <item name="Full Text Search" local="全文查找下一个" />
+            <item name="Keyword Fuzzy Search (Ctrl-S)" local="关键字模糊查找 (Ctrl-S)" />
+            <item name="Keyword Fuzzy Search Next (F5)" local="关键字模糊查找下一个 (F5)" />
+            <item name="Full Text Search (Ctrl-Shift-F)" local="全文查找 (Ctrl-Shift-F)" />
+            <item name="Full Text Search Next (F4)" local="全文查找下一个 (F4)" />
+            
+            <item name="&amp;File" local="文件 (&amp;F)" />
+            <item name="E&amp;xit" local="退出 (&amp;X)" />
+            <item name="View &amp;Toolbar" local="显示工具栏" />
+            <item name="History Back" local="上一条历史纪录" />
+            <item name="History Next" local="下一条历史纪录" />
+
+            <item name="OK" local="确认"/>
+            <item name="Cancel" local="取消"/>
+            <item name="Begin Search" local="查找"/>
+            <item name="Search For:" local="查找:"/>
+            <item name="Progress:" local="进度:"/>
+            <item name="No matches for: &apos;%s&apos; !" local="找不到 :&apos;%s&apos;!" />
+
+            <item name="Action" local="操作"/>
+            <item name="Up" local="向上"/>
+            <item name="New Group" local="新建分组"/>
+            <item name="Rename" local="重命名"/>
+            <item name="Mark/Unmark Union" local="标记/取消标记为联合"/>
+            <item name="Mark Union" local="标记为联合"/>
+            <item name="UnMark Union" local="取消联合标记"/>
+            <item name="Import Library" local="导入词库"/>
+            <item name="Clear all" local="清除当前所有"/>
+            <item name="Done" local="完成"/>
+            <item name="Add Dictionary" local="加入词典"/>
+            <item name="Delete" local="删除"/>
+            <item name="Copy To" local="拷贝到"/>
+            <item name="Move To" local="移动到"/>
+            <item name="Move Up" local="向上移"/>
+            <item name="Move Down" local="向下移"/>
+            <item name="Show" local="标记为显示"/>
+            <item name="Hide" local="标记为隐藏"/>
+            <item name="Show/Hide" local="标记为显示/隐藏"/>
+            <item name="Set for online lookup" local="设置为在线取词用"/>
+            <item name="Library Management" local="词库管理"/>
+            <item name="Start from" local="起始目录"/>
+            <item name="Search filter" local="过滤条件"/>
+            <item name="Use directory name as group name" local="使用目录名作为分组的名称"/>
+
+            <item name="Use Advanced Menu" local="使用高级菜单"/>
+
+            <item name="Misc 2" local="杂项 2"/>
+            <item name="Auto lookup in split view mode" local="分屏模式下自动显示内容"/>
+            <item name="Auto show/hide soft input panel" local="自动显示隐藏输入法"/>
+            <item name="Owner Info" local="用户信息"/>
+            <item name="Your email address:" local="你的邮件地址:"/>
+            <item name="Device ID:" local="设备 ID:"/>
+            <item name="Copy All to Clipboard" local="拷贝当前内容到剪贴板"/>
+            <item name="Auto adjust library menu order by usage" local="将最近打开的词典设置为词库列表的首项"/>
+            <item name="Use alpha instead of digit for library menu shortcut key" local="使用字母作为词库列表的快捷键(默认使用数字)"/>
+            <item name="Edit" local="编辑" />
+            <item name="Copy" local="复制" />
+            <item name="Paste" local="粘贴" />
+            <item name="Fit To Window" local="内容显示适合窗口大小" />
+            <item name="Text Color" local="文字颜色" />
+            <item name="Background Color" local="背景颜色" />
+            <item name="Default Color" local="默认颜色" />
+            <item name="Searching %d/%d" local="正在查找 %d/%d" />
+            <item name="Open dictionary failed: target not exist!" local="打开词典失败: 目标不存在" />
+            <item name="Open dictionary failed" local="打开词典失败" />
+            <item name="Openning union group, this may take some time..." local="正在打开联合组，可能需要一些时间..." />
+            <item name="Headword '%s' not found" local="找不到关键字'%s'" />
+            <item name="Please select a dictionary first" local="请先选择词典" />
+            <item name="gray" local="灰色"/>
+            <item name="green" local="绿色"/>
+            <item name="blue" local="蓝色"/>
+            <item name="black" local="黑色"/>
+            <item name="white" local="白色"/>
+            <item name="silver" local="银色"/>
+            <item name="purple" local="紫色"/>
+            <item name="olive" local="橄榄"/>
+            <item name="red" local="红色"/>
+            <item name="yellow" local="黄色"/>
+            <item name="aqua" local="浅绿"/>
+            <item name="navy" local="深蓝"/>
+            <item name="teal" local="凫蓝"/>
+            <item name="lime" local="柠檬"/>
+            <item name="fuchsia" local="深紫"/>
+            <item name="maroon" local="栗色"/>
+
+            <item name="Put current entry in middle of keyword list. (Non-Union library only)" local="将当前词条显示在词汇列表中间(仅对非联合词典有效)" />
+
+            <item name="Import from directory:" local="导入目录:"/>
+            <item name="Fail to open audio library: %s, %s" local="打开语音库失败: %s, %s"/>
+
+            <item name="Fail to read file" local="读取文件失败" />
+            <item name="Fail to open file" local="文件打开失败" />
+            <item name="Fail to read file" local="文件读取失败" />
+            <item name="Key not found" local="找不到关键字" />
+            <item name="Invalid header" local="无效文件头" />
+            <item name="Invalid format" local="文件格式错误" />
+            <item name="Invalid parameter" local="参数错误" />
+            <item name="Parameter out of range" local="参数超出允许范围" />
+            <item name="CRC error" local="校验失败" />
+            <item name="Decompression error" local="解压失败" />
+            <item name="Dictionary not initialized" local="未初始化词典" />
+            <item name="Incorrect dictionary serial number" local="词典序列号不正确" />
+            <item name="Memory error" local="内存错误" />
+            <item name="Unsupported format" local="不支持的词典格式" />
+            <item name="Invalid style sheet" local="无效格式文件" />
+            <item name="Unsupported function" local="不支持的功能" />
+            <item name="Program HotKey" local="程序热键" />
+
+            <item name="&amp;Navigation" local="导航 (&amp;N)" />
+            <item name="Previous Entry" local="上一条" />
+            <item name="Next Entry" local="下一条" />
+
+            <item name="Use Large Button" local="使用大图标" />
+            <item name="Auto lookup selected text" local="自动查找高亮的文本" />
+            <item name="Do you want to delete all contents in current group?" local="你想清除当前分组的所有内容吗？" />
+            <item name="This operation may replace the current dictionary list, Continue?" local="这个操作会替换掉目前的词典列表，继续吗？" />
+            <item name="Search all dictionary" local="找出所有词典" />
+            <item name="%d dictionaries found" local="找到%d个词典" />
+            <item name="Text" local="文本" />
+            <item name="Speak" local="发音" />
+            <item name="Lookup" local="查找" />
+            <item name="Lookup in popup window" local="在弹出窗口中查找" />
+            <item name="Note: Please use 'Library Manager' to choose dictionary for online lookup" local="请使用'词库管理'来选择在线查找的词典" />
+            <item name="Unset for online lookup" local="取消作为在线取词词典" />
+            <item name="Show reference" local="显示参考词典内容" />
+            <item name="Default font" local="默认字体" />
+            <item name="Import" local="导入"/>
+            <item name="help.en.html" local="help.zh_cn.html" />
+            <item name="Finger Gesture" local="指划滚屏" />
+
+            <item name="Delete all history records" local="清除历史查询记录?" />
+            <item name="Delete all favorites records?" local="清除收藏夹?" />
+            <item name="History" local="查询历史" />
+            <item name="Favorites" local="收藏夹" />
+            <item name="Show Entry" local="查看记录" />
+            <item name="Add to Favorites" local="加入到收藏夹" />
+            <item name="Add to Fav" local="加入到收藏夹" />
+            <item name="Add Current Entry" local="收藏当前条目" />
+            <item name="View Favorites" local="查看收藏夹" />
+            <item name="Full Screen" local="全屏模式" />
+            <item name="Zoom In 150%" local="放大150%" />
+            <item name="Invalid MDT file" local="MDT文件无效" />
+            <item name="MDT's ID dosen't match library's ID" local="MDT文件中的ID与词典ID不匹配" />
+
+            <!-- 2012/3/20 -->
+            <item name="Start minimized" local="启动后最小化窗口" />
+            <item name="use Tab Mode" local="使用标签模式显示" />
+            <item name="Default expand all entries  for union dictionaries" local="联合模式辞典默认展开所有条目" />
+            <item name="Keep only one entry expanded for union dictionaries" local="联合模式辞典每次只展开一个条目" />
+            <item name="Pick Color" local="选择颜色" />
+            <item name="Reset To Default" local="使用默认颜色" />
+            <item name="Zoom" local="缩放" />
+            <item name="Apply Current View Setting to All" local="将当前显示设置应用到所有词典" />
+            <item name="Find On Current Page (Ctrl-F)" local="当前页面中查找 (Ctrl-F)" />
+            <item name="Find On Current Page Next (F3)" local="当前页面中查找下一个 (F3)" />
+            <item name="Auto lookup clipboard on activate" local="激活时自动查找剪贴板内容" />
+            <item name="Monitor clipboard" local="监控剪贴板" />
+        </general>
+        <unit id="">
+        </unit>
+    </language>
+    <language id="繁體中文">
+        <general>
+            <item name="&amp;Tools" local="工具 (&amp;T)"/>
+            <item name="&amp;View" local="查看 (&amp;V)"/>
+            <item name="&amp;Library" local="詞庫 (&amp;L)"/>
+            <item name="Library Manager" local="詞庫管理"/>
+            <item name="&amp;Help" local="幫助 (&amp;H)"/>
+            <item name="Options" local="選項"/>
+            <item name="Save Lookup Content" local="保存查詢內容"/>
+            <item name="Save Lookup History" local="保存查詢歷史"/>
+            <item name="About MDict" local="關於MDict"/>
+            <item name="About the Dictionary" local="關於詞典"/>
+            <item name="MDict Help" local="程式説明"/>
+            <item name="Dict default setting" local="預設詞典視圖選項"/>
+            <item name="Font Size" local="字體大小"/>
+            <item name="Use ClearType" local="使用清晰字體"/>
+            <item name="ClearType" local="清晰字體"/>
+            <item name="Chinese conversion" local="簡繁體轉換"/>
+            <item name="No Conversion" local="不轉換"/>
+            <item name="To Simplified Chinese" local="轉換為簡體"/>
+            <item name="To Traditional Chinese" local="轉換為繁體"/>
+            <item name="Split View" local="分屏模式"/>
+            <item name="Fix Chinese Line Wrap" local="強制中文換行"/>
+            <item name="Apply to all dicts" local="應用到所有詞典"/>
+            <item name="Online Lookup" local="線上取詞"/>
+            <item name="Current lookup content saved in: %s" local="當前查詢內容已保存到: %s" />
+            <item name="Failed to save lookup content, Err: %d" local="保存當前查詢內容失敗, 錯誤碼: %d" />
+            <item name="Save lookup history succeed." local="保存查詢記錄成功" />
+            <item name="Save lookup history failed, Err: %d" local="歷史記錄保存失敗，錯誤碼: %d" />
+            <item name=""<font color="red">Can't pick word</font>" local="<font color="red">無法取詞</font>" />
+
+            <item name="Use popup for online lookup" local="使用快顯視窗顯示"/>
+            <item name="Dictionary for online lookup" local="線上取詞使用的詞典"/>
+            <item name="Word pickup button (Press button to select)" local="取詞按鈕(可以按設備上的按鈕進行選擇)"/>
+            <item name="Show picker icon on task bar" local="在工作列上顯示取詞圖示"/>
+            <item name="Browse" local="瀏覽"/>
+            <item name="Auto save lookup history" local="自動保存查詢記錄"/>
+            <item name="Free font resource when exit" local="退出時釋放字體資源"/>
+            <item name="Audio library path" local="語音庫路徑"/>
+            <item name="Back To Previous Application" local="返回被取詞的程式"/>
+            <item name="Open Dictionary" local="打開詞典"/>
+            <item name="Search all" local="列出所有詞典"/>
+            <item name="Smallest" local="最小"/>
+            <item name="Smaller" local="小"/>
+            <item name="Medium" local="中"/>
+            <item name="Larger" local="大"/>
+            <item name="Largest" local="最大"/>
+            <item name="Button" local="按鈕"/>
+            <item name="Disable" local="禁用"/>
+            <item name="GUI Language" local="介面語言"/>
+            <item name="GUI language(Need restart)" local="介面語言(需要重啟動程式)" />
+            <item name="Misc" local="雜項" />
+            <item name="E&amp;xit" local="退出 (&amp;X)" />
+            <item name="Menu" local="功能表" />
+            <item name="Font" local="字體" />
+            <item name="Auto play audio" local="自動播放語音" />
+            <item name="Audio Tools" local="語音工具" />
+            <item name="Use Dictionary Embedded Audio" local="使用詞典內嵌的語音" />
+            <item name="Use softkey menu(Need restart)" local="使用軟鍵功能表(需要重啟動程式)" />
+
+            <item name="Search" local="搜尋" />
+            <item name="Advanced Search" local="高級搜尋" />
+            <item name="Keyword Fuzzy Search" local="關鍵字模糊搜尋" />
+            <item name="Keyword Fuzzy Search Next" local="關鍵字模糊搜尋下一個" />
+            <item name="Full Text Search" local="全文搜尋" />
+            <item name="Full Text Search Next" local="全文搜尋下一個" />
+            <item name="Keyword Fuzzy Search (Ctrl-S)" local="關鍵字模糊搜尋 (Ctrl-S)" />
+            <item name="Keyword Fuzzy Search Next (F5)" local="關鍵字模糊搜尋下一個 (F5)" />
+            <item name="Full Text Search (Ctrl-Shift-F)" local="全文搜尋 (Ctrl-Shift-F)" />
+            <item name="Full Text Search Next (F4)" local="全文搜尋下一個 (F4)" />
+            <item name="&amp;File" local="文件 (&amp;F)" />
+            <item name="E&xit" local="退出" />
+            <item name="View &amp;Toolbar" local="顯示工具列" />
+            <item name="History Back" local="上一條歷史紀錄" />
+            <item name="History Next" local="下一條歷史紀錄" />
+
+            <item name="OK" local="確認"/>
+            <item name="Cancel" local="取消"/>
+
+            <item name="Begin Search" local="搜尋"/>
+            <item name="Search For:" local="搜尋:"/>
+            <item name="Progress:" local="進度:"/>
+            <item name="No matches for: &apos;%s&apos; !" local="找不到 :&apos;%s&apos;!" />
+
+            <item name="Action" local="操作"/>
+            <item name="Up" local="向上"/>
+            <item name="New Group" local="新建分組"/>
+            <item name="Rename" local="重命名"/>
+            <item name="Mark/Unmark Union" local="標記/取消標記為聯合"/>
+            <item name="Mark Union" local="標記為聯合"/>
+            <item name="UnMark Union" local="取消聯合標記"/>
+            <item name="Import Library" local="導入詞庫"/>
+            <item name="Clear all" local="清除當前所有"/>
+            <item name="Done" local="完成"/>
+            <item name="Add Dictionary" local="加入詞典"/>
+            <item name="Delete" local="刪除"/>
+            <item name="Copy To" local="拷貝到"/>
+            <item name="Move To" local="移動到"/>
+            <item name="Move Up" local="向上移"/>
+            <item name="Move Down" local="向下移"/>
+            <item name="Show" local="標記為顯示"/>
+            <item name="Hide" local="標記為隱藏"/>
+            <item name="Show/Hide" local="標記為顯示/隱藏"/>
+            <item name="Set for online lookup" local="設置為線上取詞用"/>
+            <item name="Library Management" local="詞庫管理"/>
+            <item name="Start from" local="起始目錄"/>
+            <item name="Search filter" local="過濾條件"/>
+            <item name="Use directory name as group name" local="使用目錄名作為分組的名稱"/>
+            <item name="Use Advanced Menu" local="使用高級功能表"/>
+
+            <item name="Misc 2" local="雜項 2"/>
+            <item name="Auto lookup in split view mode" local="分屏模式下自動顯示內容"/>
+            <item name="Auto show/hide soft input panel" local="自動顯示隱藏輸入法"/>
+            <item name="Owner Info" local="使用者資訊"/>
+            <item name="Your email address:" local="你的Email:"/>
+            <item name="Device ID:" local="設備 ID:"/>
+            <item name="Copy All to Clipboard" local="拷貝當前內容到剪貼板"/>
+            <item name="Auto adjust library menu order by usage" local="將最近打開的詞典設置為詞庫列表的首項"/>
+            <item name="Use alpha instead of digit for library menu shortcut key" local="使用字母作為詞庫列表的快速鍵(預設使用數位)"/>
+
+            <item name="Edit" local="編輯" />
+            <item name="Copy" local="複製" />
+            <item name="Paste" local="粘貼" />
+
+            <item name="Fit To Window" local="內容顯示適合視窗大小" />
+            <item name="Text Color" local="文字顏色" />
+            <item name="Background Color" local="背景顏色" />
+            <item name="Default Color" local="默認顏色" />
+            <item name="Searching %d/%d" local="正在搜尋 %d/%d" />
+            <item name="Open dictionary failed: target not exist!" local="打開詞典失敗: 目標不存在" />
+            <item name="Open dictionary failed" local="打開詞典失敗" />
+            <item name="Openning union group, this may take some time..." local="正在打開聯合組，可能需要一些時間..." />
+            <item name="Headword '%s' not found" local="找不到關鍵字'%s'" />
+            <item name="Please select a dictionary first" local="請先選擇詞典" />
+            <item name="gray" local="灰色"/>
+            <item name="green" local="綠色"/>
+            <item name="blue" local="藍色"/>
+            <item name="black" local="黑色"/>
+            <item name="white" local="白色"/>
+            <item name="silver" local="銀色"/>
+            <item name="purple" local="紫色"/>
+            <item name="olive" local="橄欖"/>
+            <item name="red" local="紅色"/>
+            <item name="yellow" local="黃色"/>
+            <item name="aqua" local="淺綠"/>
+            <item name="navy" local="深藍"/>
+            <item name="teal" local="鳧藍"/>
+            <item name="lime" local="檸檬"/>
+            <item name="fuchsia" local="深紫"/>
+            <item name="maroon" local="栗色"/>
+
+            <item name="Put current entry in middle of keyword list. (Non-Union library only)" local="將當前詞條顯示在詞彙清單中間(僅對非聯合詞典有效)" />
+
+            <item name="Import from directory:" local="導入目錄:"/>
+            <item name="Fail to open audio library: %s, %s" local="打開語音庫失敗: %s, %s"/>
+
+            <item name="Fail to read file" local="讀取檔失敗" />
+            <item name="Fail to open file" local="檔打開失敗" />
+            <item name="Fail to read file" local="檔讀取失敗" />
+            <item name="Key not found" local="找不到關鍵字" />
+            <item name="Invalid header" local="無效檔頭" />
+            <item name="Invalid format" local="檔案格式錯誤" />
+            <item name="Invalid parameter" local="參數錯誤" />
+            <item name="Parameter out of range" local="參數超出允許範圍" />
+            <item name="CRC error" local="校驗失敗" />
+            <item name="Decompression error" local="解壓失敗" />
+            <item name="Dictionary not initialized" local="未初始化詞典" />
+            <item name="Incorrect dictionary serial number" local="詞典序號不正確" />
+            <item name="Memory error" local="記憶體錯誤" />
+            <item name="Unsupported format" local="不支援的詞典格式" />
+            <item name="Invalid style sheet" local="無效格式檔" />
+            <item name="Unsupported function" local="不支援的功能" />
+            <item name="Program HotKey" local="程式熱鍵" />
+
+            <item name="&amp;Navigation" local="導航 (&amp;N)" />
+            <item name="Previous Entry" local="上一條" />
+            <item name="Next Entry" local="下一條" />
+
+            <item name="Use Large Button" local="使用大圖示" />
+            <item name="Auto lookup selected text" local="自動查找高亮的文本" />
+            <item name="Do you want to delete all contents in current group?" local="你想清除當前分組的所有內容嗎？" />
+            <item name="This operation may replace the current dictionary list, Continue?" local="這個操作會替換掉目前的詞典列表，繼續嗎？" />
+            <item name="Search all dictionary" local="找出所有詞典" />
+            <item name="%d dictionaries found" local="找到%d個詞典" />
+            <item name="Text" local="文本" />
+            <item name="Speak" local="發音" />
+            <item name="Lookup" local="查找" />
+            <item name="Lookup in popup window" local="在快顯視窗查找" />
+
+            <item name="Note: Please use 'Library Manager' to choose dictionary for online lookup" local="請使用'詞庫管理'來選擇線上查找的詞典" />
+            <item name="Unset for online lookup" local="取消作為線上取詞詞典" />
+            <item name="Show reference" local="顯示參考詞典內容" />
+            <item name="Default font" local="默認字體" />
+            <item name="Import" local="導入"/>
+            <item name="help.en.html" local="help.zh_tw.html" />
+            <item name="Finger Gesture" local="指劃滾屏" />
+
+            <item name="Delete all history records" local="清除歷史查詢記錄?" />
+            <item name="Delete all favorites records?" local="清除我的最愛?" />
+            <item name="History" local="查詢歷史" />
+            <item name="Favorites" local="我的最愛" />
+            <item name="Show Entry" local="查看記錄" />
+            <item name="Add to Favorites" local="加入到我的最愛" />
+            <item name="Add to Fav" local="加入到我的最愛" />
+            <item name="Add Current Entry" local="收藏當前條目" />
+            <item name="View Favorites" local="查看我的最愛" />
+            <item name="Full Screen" local="全屏模式" />
+            <item name="Zoom In 150%" local="放大%" />
+            <item name="Invalid MDT file" local="MDT檔無效" />
+            <item name="MDT's ID dosen't match library's ID" local="MDT文件中的ID與詞典ID不匹配" />
+
+            <!-- 2012/3/20 -->
+            <item name="Start minimized" local="啟動後最小化窗口" />
+            <item name="use Tab Mode" local="使用標籤模式顯示" />
+            <item name="Default expand all entries  for union dictionaries" local="聯合模式辭典默認展開所有條目" />
+            <item name="Keep only one entry expanded for union dictionaries" local="聯合模式辭典每次只展開一個條目" />
+            <item name="Pick Color" local="選擇顏色" />
+            <item name="Reset To Default" local="使用默認顏色" />
+            <item name="Zoom" local="縮放" />
+            <item name="Apply Current View Setting to All" local="將當前顯示設定應用到所有詞典" />
+            <item name="Find On Current Page (Ctrl-F)" local="當前頁面中查找 (Ctrl-F)" />
+            <item name="Find On Current Page Next (F3)" local="當前頁面中查找下一個 (F3)" />
+            </general>
+        <unit id="">
+        </unit>
+    </language>
+    <language id="Polski">
+        <general>
+            <item name="&amp;Tools" local="Narzędzia (&amp;T)"/>
+            <item name="&amp;View" local="Widok (&amp;V)"/>
+            <item name="&amp;Library" local="Słownik (&amp;L)"/>
+            <item name="Library Manager" local="Menedżer bibliotek"/>
+
+            <item name="&amp;Help" local="Pomoc (&amp;H)"/>
+            <item name="Options" local="Opcje"/>
+            <item name="Save Lookup Content" local="Zapisz zawartość wyszukiwania"/>
+            <item name="Save Lookup History" local="Zapisz historię wyszukiwania"/>
+            <item name="About MDict" local="O MDict"/>
+            <item name="About the Dictionary" local="O słowniku"/>
+            <item name="MDict Help" local="Pomoc"/>
+            <item name="Dict default setting" local="Domyślne ustawienia słownika"/>
+            <item name="Font Size" local="Rozmiar czcionki"/>
+            <item name="Use ClearType" local="Użyj ClearType"/>
+            <item name="ClearType" local="ClearType"/>
+            <item name="Chinese conversion" local="Chińska konwersja"/>
+            <item name="No Conversion" local="Bez konwersji"/>
+            <item name="To Simplified Chinese" local="Na chiński uproszczony"/>
+            <item name="To Traditional Chinese" local="Na chiński tradycyjny"/>
+            <item name="Split View" local="Podział okna"/>
+            <item name="Fix Chinese Line Wrap" local="Popraw łamanie wierszy (chiński)"/>
+            <item name="Apply to all dicts" local="Zast. do wsz. słowników"/>
+            <item name="Online Lookup" local="Sprawdzanie online"/>
+
+            <item name="Use popup for online lookup" local="Popup przy wyszukiw. online"/>
+            <item name="Dictionary for online lookup" local="Słownik dla wyszukiwania online"/>
+            <item name="Word pickup button (Press button to select)" local="Przycisk wyboru słowa (Naciśnij przycisk aby wybrać)"/>
+            <item name="Show picker icon on task bar" local="Pokaż ikonkę w trayu"/>
+            <item name="Browse" local="Przeglądaj"/>
+            <item name="Auto save lookup history" local="Autom. zapis hist. wyszukiw."/>
+
+            <item name="Free font resource when exit" local="Zwalniaj zasoby przy wyjściu"/>
+            <item name="Audio library path" local="Lok. biblioteki audio"/>
+            <item name="Back To Previous Application" local="Powrót do poprzedniej aplikacji"/>
+            <item name="Open Dictionary" local="Otwórz słownik"/>
+            <item name="Search all" local="Wyszukaj wszystkie"/>
+            <item name="Smallest" local="Najmniejsza"/>
+            <item name="Smaller" local="Mniejsza"/>
+            <item name="Medium" local="Średnia"/>
+            <item name="Larger" local="Większa"/>
+            <item name="Largest" local="Największa"/>
+            <item name="Button" local="Przycisk"/>
+            <item name="Disable" local="Wył."/>
+            <item name="GUI Language" local="Język GUI"/>
+            <item name="GUI language(Need restart)" local="Język GUI (wymaga restartu)" />
+            <item name="Misc" local="Różne" />
+            <item name="Exit" local="Koniec" />
+            <item name="Menu" local="Menu" />
+            <item name="Font" local="Czcionka" />
+            <item name="Auto play audio" local="Autom. odtw. audio" />
+            <item name="Audio Tools" local="Narzędzia audio" />
+            <item name="Use Dictionary Embedded Audio" local="Używaj wbudowanego słownika audio" />
+            <item name="Use softkey menu(Need restart)" local="Używaj menu softkey (wym. restartu)" />
+
+            <item name="Search" local="Wyszukiwanie" />
+            <item name="Advanced Search" local="Wyszukiw. zaawansowane" />
+            <item name="Keyword Fuzzy Search" local="Wyszuk. wg słów kluczowych" />
+            <item name="Keyword Fuzzy Search Next" local="Nast. wyszuk. wg słów kluczowych" />
+            <item name="Full Text Search" local="Wyszuk. w całym tekście" />
+            <item name="Full Text Search" local="Nast. wyszuk. w całym tekście" />
+            <item name="Keyword Fuzzy Search (Ctrl-S)" local="Wyszuk. wg słów kluczowych (Ctrl-S)" />
+            <item name="Keyword Fuzzy Search Next (F5)" local="Nast. wyszuk. wg słów kluczowych (F5)" />
+            <item name="Full Text Search (Ctrl-Shift-F)" local="Wyszuk. w całym tekście (Ctrl-Shift-F)" />
+            <item name="Full Text Search Next (F4)" local="Nast. wyszuk. w całym tekście (F4)" />
+            <item name="&amp;File" local="Plik (&amp;F)" />
+            <item name="E&amp;xit" local="&amp;Koniec" />
+            <item name="View &amp;Toolbar" local="Pokaż &amp;pasek narzędzi" />
+            <item name="History Back" local="Wstecz" />
+            <item name="History Next" local="Dalej" />
+
+            <item name="OK" local="OK"/>
+            <item name="Cancel" local="Anuluj"/>
+            <item name="Begin Search" local="Rozpocznij wyszukiwanie"/>
+            <item name="Search For:" local="Szukaj:"/>
+            <item name="Progress:" local="Postęp:"/>
+            <item name="No matches for: &apos;%s&apos; !" local="Nie znaleziono :&apos;%s&apos;!" />
+
+            <item name="Action" local="Akcja"/>
+            <item name="Up" local="W górę"/>
+            <item name="New Group" local="Nowa grupa"/>
+            <item name="Rename" local="Zmień nazwę"/>
+            <item name="Mark/Unmark Union" local="Połącz/rozłącz grupę"/>
+            <item name="Mark Union" local="Połącz grupę"/>
+            <item name="UnMark Union" local="Rozłącz grupę"/>
+            <item name="Import Library" local="Importuj bibliotekę"/>
+            <item name="Clear all" local="Wyczyść wszystko"/>
+            <item name="Done" local="Gotowe"/>
+            <item name="Add Dictionary" local="Dodaj słownik"/>
+            <item name="Delete" local="Usuń"/>
+            <item name="Copy To" local="Kopiuj do"/>
+            <item name="Move To" local="Przenieś do"/>
+            <item name="Move Up" local="Przesuń w górę"/>
+            <item name="Move Down" local="Przesuń w dół"/>
+            <item name="Show" local="Pokazuj"/>
+            <item name="Hide" local="Ukryj"/>
+            <item name="Show/Hide" local="Pokazuj/ukryj"/>
+            <item name="Set for online lookup" local="Wyszukuj online"/>
+            <item name="Library Management" local="Zarządzanie biblioteką"/>
+            <item name="Start from" local="Zacznij od"/>
+            <item name="Search filter" local="Filtr wyszukiwania"/>
+            <item name="Use directory name as group name" local="Nazwa katalogu jako nazwa grupy"/>
+
+            <item name="Use Advanced Menu" local="Użyj menu zaawansowanego"/>
+
+            <item name="Misc 2" local="Inne 2"/>
+            <item name="Auto lookup in split view mode" local="Auto podp. w trybie dzielonym"/>
+            <item name="Auto show/hide soft input panel" local="Auto pokaż/ukryj panel wprowadzania"/>
+            <item name="Owner Info" local="Informacje o użytkowniku"/>
+            <item name="Your email address:" local="Twój adres e-mail:"/>
+            <item name="Device ID:" local="ID urządzenia:"/>
+            <item name="Copy All to Clipboard" local="Kopiuj wszystko do schowka"/>
+            <item name="Auto adjust library menu order by usage" local="Autoaranżacja menu wg użycia"/>
+            <item name="Use alpha instead of digit for library menu shortcut key" local="Używaj liter zamiast cyfr jako skrótów menu"/>
+            <item name="Edit" local="Edycja" />
+            <item name="Copy" local="Kopiuj" />
+            <item name="Paste" local="Wklej" />
+            <item name="Fit To Window" local="Dopasuj do okna" />
+            <item name="Text Color" local="Kolor tekstu" />
+            <item name="Background Color" local="Kolor tła" />
+            <item name="Default Color" local="Kolor domyślny" />
+            <item name="Searching %d/%d" local="Szukam %d/%d" />
+            <item name="Open dictionary failed: target not exist!" local="Nie można otworzyć słownika: plik nie istnieje" />
+            <item name="Open dictionary failed" local="Nie można otworzyć słownika" />
+            <item name="Openning union group, this may take some time..." local="Otwieram grupę słowników, może to chwilę potrwać..." />
+            <item name="Headword '%s' not found" local="Nie mogę odnaleźć '%s'" />
+            <item name="Please select a dictionary first" local="Proszę najpierw wybrać słownik" />
+            <item name="gray" local="szary"/>
+            <item name="green" local="zielony"/>
+            <item name="blue" local="niebieski"/>
+            <item name="black" local="czarny"/>
+            <item name="white" local="biały"/>
+            <item name="silver" local="srebrny"/>
+            <item name="purple" local="fioletowy"/>
+            <item name="olive" local="oliwkowy"/>
+            <item name="red" local="czerwony"/>
+            <item name="yellow" local="żółty"/>
+            <item name="aqua" local="błękitny"/>
+            <item name="navy" local="granatowy"/>
+            <item name="teal" local="morski"/>
+            <item name="lime" local="limonkowy"/>
+            <item name="fuchsia" local="różowy"/>
+            <item name="maroon" local="bordowy"/>
+
+            <item name="Put current entry in middle of keyword list. (Non-Union library only)" local="Pokazuj bieżącą pozycję w środku listy słów kluczowych (tylko pojedyńcze słowniki)" />
+
+            <item name="Import from directory:" local="Importuj z katalogu:"/>
+            <item name="Fail to open audio library: %s, %s" local="Nie mogę otworzyć biblioteki audio: %s, %s"/>
+
+            <item name="Fail to read file" local="Nie mogę odczytać pliku" />
+            <item name="Fail to open file" local="Nie mogę otworzyć pliku" />
+            <item name="Fail to read file" local="Nie mogę odczytać pliku" />
+            <item name="Key not found" local="Klucz nie odnaleziony" />
+            <item name="Invalid header" local="Błędny nagłówek" />
+            <item name="Invalid format" local="Błędny format" />
+            <item name="Invalid parameter" local="Błędny parametr" />
+            <item name="Parameter out of range" local="Parametr spoza zakresu" />
+            <item name="CRC error" local="Błąd CRC" />
+            <item name="Decompression error" local="Błąd rozpakowywania" />
+            <item name="Dictionary not initialized" local="Słownik nie zainicjowany" />
+            <item name="Incorrect dictionary serial number" local="Błędny numer seryjny słownika" />
+            <item name="Memory error" local="Błąd pamięci" />
+            <item name="Unsupported format" local="Niewspierany format" />
+            <item name="Invalid style sheet" local="Błędny arkusz stylów" />
+            <item name="Unsupported function" local="Niewspierana funkcja" />
+            <item name="Program HotKey" local="Skrót klawiszowy" />
+
+            <item name="&amp;Navigation" local="Nawigacja (&amp;N)" />
+            <item name="Previous Entry" local="Poprzednia pozycja" />
+            <item name="Next Entry" local="Następna pozycja" />
+
+            <item name="Use Large Button" local="Użyj dużych przycisków" />
+            <item name="Auto lookup selected text" local="Autowyszukiwanie wprow. tekstu" />
+            <item name="Start minimize" local="Minimalizacja po starcie" />
+            <item name="Do you want to delete all contents in current group?" local="Czy chcesz usunąć całą zawartość bieżącej grupy?" />
+            <item name="This operation may replace the current dictionary list, Continue?" local="Ta operacja może zastąpić bieżącą listę słowników, kontynuować?" />
+            <item name="Search all dictionary" local="Przeszukuj cały słownik" />
+            <item name="%d dictionaries found" local="znaleziono %d słowniki(ów)" />
+            <item name="Text" local="Tekst" />
+            <item name="Speak" local="Wymów" />
+            <item name="Lookup" local="Wyszukaj" />
+            <item name="Note: Please use 'Library Manager' to choose dictionary for online lookup" local="Uwaga: Słowniki online można wybrać w 'Menedżerze bibliotek'" />
+            <item name="Unset for online lookup" local="Odznacz, gdy wysz. online aktywne" />
+            <item name="Show reference" local="Pokaż referencje" />
+            <item name="Default font" local="Domyślna czcionka" />
+            <item name="Import" local="Importuj"/>
+            <item name="help.en.html" local="help.en.html" />
+            <item name="Finger Gesture" local="Obsługa gestów" />
+
+            <item name="Delete all history records" local="Usuń historię wyszukiwania" />
+            <item name="Delete all favorites records?" local="Usuń ulubione" />
+            <item name="History" local="Historia" />
+            <item name="Favorites" local="Ulubione" />
+            <item name="Show Entry" local="Pokaż wpis" />
+            <item name="Add to Favorites" local="Dodaj do ulubionych" />
+            <item name="Add to Fav" local="Dodaj do ulubionych" />
+            <item name="Add Current Entry" local="Dodaj obecny wpis" />
+            <item name="View Favorites" local="Przeglądaj ulubione" />
+            <item name="Full Screen" local="Pełny ekran" />
+            <item name="Zoom In 150%" local="Widok 150%" />
+            <item name="Invalid MDT file" local="Błędny plik MDT" />
+            <item name="MDT's ID dosen't match library's ID" local="ID pliku MDT nie jest zgodne z ID biblioteki" />
+
+
+        </general>
+        <unit id="">
+        </unit>
+    </language>
+
+    <language id="German">
+        <general>
+            <item name="&amp;Tools" local="Extras (&amp;T)"/>
+            <item name="&amp;View" local="Ansicht (&amp;V)"/>
+            <item name="&amp;Library" local="Bibiliothek (&amp;L)"/>
+
+            <item name="&amp;Help" local="? (&amp;H)"/>
+            <item name="Options" local="Einstellungen"/>
+            <item name="Save Lookup Content" local="Inhalte speichern"/>
+            <item name="Save Lookup History" local="Verlauf speichern"/>
+            <item name="About MDict" local="Info MDict"/>
+            <item name="About the Dictionary" local="Info Wörterbuch" />
+            <item name="About the library" local="Info Bibiliothek"/>
+            <item name="MDict Help" local="MDict Hilfe"/>
+            <item name="Dict default setting" local="Standard Einstellungen"/>
+            <item name="Font Size" local="Schriftgröße"/>
+            <item name="Use ClearType" local="ClearType benutzen"/>
+            <item name="ClearType" local="ClearType"/>
+            <item name="Chinese conversion" local="Chinesische Übersetzung"/>
+            <item name="No Conversion" local="Keine Übersetzung"/>
+            <item name="To Simplified Chinese" local="Chinesisch (vereinfacht)"/>
+            <item name="To Traditional Chinese" local="Chinesisch (traditionell) "/>
+            <item name="Split View" local="Split Ansicht"/>
+            <item name="Fix Chinese Line Wrap" local="Zeilenumbruch (Chinesisch)"/>
+            <item name="Apply to all dicts" local="Alle Wörterbücher annehmen"/>
+            <item name="Online Lookup" local="Online suche"/>
+
+            <item name="Use popup for online lookup" local="Benutze Popup Online suche"/>
+            <item name="Dictionary for online lookup" local="Wörterbücher Online suche"/>
+            <item name="Word pickup button (Press button to select)" local="Wörteraufnehmen Schaltfläche (Press button to select)"/>
+            <item name="Show picker icon on task bar" local="Zeige Icon in der Task"/>
+            <item name="Browse" local="Browse"/>
+            <item name="Auto save lookup history" local="Automatisches speichern der History"/>
+
+            <item name="Free font resource when exit" local="Freie Schriftart nach beenden"/>
+            <item name="Audio library" local="Audio Bibiliothek"/>
+            <item name="Back To Previous Application" local="Rückgängig"/>
+            <item name="Open Library" local="Öffne Bibiliothek"/>
+            <item name="Search all" local="Suchen.."/>
+            <item name="Smallest" local="extra Klein"/>
+            <item name="Smaller" local="Klein"/>
+            <item name="Medium" local="Normal"/>
+            <item name="Larger" local="Mittel"/>
+            <item name="Largest" local="Groß"/>
+            <item name="Button" local="Taster"/>
+            <item name="Disable" local="deaktivieren"/>
+            <item name="GUI Language" local="GUI Sprache"/>
+            <item name="GUI language(Need restart)" local="GUI Sprache (benötigt Neustart)" />
+            <item name="Misc" local="Sonstiges" />
+            <item name="Exit" local="Beenden" />
+            <item name="Menu" local="Menu" />
+            <item name="Font" local="Schriftart" />
+            <item name="Auto play audio" local="autom. Sprachausgabe" />
+            <item name="Audio Tools" local="Audio Extras" />
+            <item name="Use Dictionary Embedded Audio" local="Benutze Wörterbuch Sprachausgabe" />
+            <item name="Use softkey menu(Need restart)" local="Benutze softkey Menue (Neustart erforderlich)" />
+
+            <item name="Search" local="Suchen.." />
+            <item name="Advanced Search" local="Erweiterte Suche" />
+            <item name="Keyword Fuzzy Search" local="Stichwort suche" />
+            <item name="Keyword Fuzzy Search Next" local="Weitersuchen Stichwort" />
+            <item name="Full Text Search" local="Text suche.." />
+            <item name="Full Text Search Next" local="Weitersuchen Text" />
+            <item name="Keyword Fuzzy Search (Ctrl-S)" local="Stichwort suche (Ctrl-S)" />
+            <item name="Keyword Fuzzy Search Next (F5)" local="Weitersuchen Stichwort (F5)" />
+            <item name="Full Text Search (Ctrl-Shift-F)" local="Text suche (Ctrl-Shift-F)" />
+            <item name="Full Text Search Next (F4)" local="Text Weitersuchen (F4)" />
+            <item name="&amp;File" local="Datei (&amp;F)" />
+            <item name="E&amp;xit" local="&amp;Beenden" />
+            <item name="View &amp;Toolbar" local="Ansicht &amp;Funktionsleiste" />
+            <item name="History Back" local="Verlauf zurück" />
+            <item name="History Next" local="Verlauf vorwärts" />
+
+            <item name="OK" local="OK"/>
+            <item name="Cancel" local="Abbruch"/>
+            <item name="Begin Search" local="Beginn Suche"/>
+            <item name="Search For:" local="Suchen nach.."/>
+            <item name="Progress:" local="Weitersuchen:"/>
+            <item name="No matches for: &apos;%s&apos; !" local="Kein Treffer:&apos;%s&apos;!" />
+
+            <item name="Action" local="Aktionen"/>
+            <item name="Up" local="Auf"/>
+            <item name="New Group" local="Neue Gruppe"/>
+            <item name="Rename" local="Umbenennen"/>
+            <item name="Mark/Unmark Union" local="Un-/Makieren Gruppe"/>
+            <item name="Mark Union" local="Markiere Gruppe"/>
+            <item name="UnMark Union" local="Markierung löschen Gruppe"/>
+            <item name="Import Library" local="Bibliotehek importieren"/>
+            <item name="Clear all" local="Alles löschen"/>
+            <item name="Done" local="Fertig"/>
+            <item name="Add Dictionary" local="Wörterbuch hinzufügen"/>
+            <item name="Delete" local="Löschen"/>
+            <item name="Copy To" local="Kopieren nach"/>
+            <item name="Move To" local="Verschieben nach"/>
+            <item name="Move Up" local="Bewegen auf.."/>
+            <item name="Move Down" local="Bewegen ab.."/>
+            <item name="Show" local="Einbleden"/>
+            <item name="Hide" local="Ausbleden"/>
+            <item name="Show/Hide" local="Ein/Aus - blenden"/>
+            <item name="Set for online lookup" local="Suche online"/>
+            <item name="Library Manager" local="Bibiliothek Manager"/>
+            <item name="Start from" local="Starten von"/>
+            <item name="Search filter" local="Suchfilter"/>
+            <item name="Use directory name as group name" local="Wöterbuchname benutzen als Gruppenname"/>
+
+            <item name="Use Advanced Menu" local="Erweitertes Menue"/>
+
+            <item name="Misc 2" local="Sonstiges 2"/>
+            <item name="Auto lookup in split view mode" local="Auto arbeiten in Split-Ansicht"/>
+            <item name="Auto show/hide soft input panel" local="Auto Anzeige/Ausblenden Eingabefeld"/>
+            <item name="Owner Info" local="Benutzer Info"/>
+            <item name="Your email address:" local="Deine E-Mail Adresse"/>
+            <item name="Device ID:" local="Geräte ID:"/>
+            <item name="Copy All to Clipboard" local="Kopieren in die Zwischenablage"/>
+            <item name="Auto adjust library menu order by usage" local="Auto Menueanpassung"/>
+
+            <item name="Use alpha instead of digit for libray menu shortcut key" local="Verwenden Sie anstelle von Alpha Ziffern die Menuetastenkürzel"/>
+            <item name="Edit" local="Bearbeiten" />
+            <item name="Copy" local="Kopieren" />
+            <item name="Paste" local="Einfügen" />
+            <item name="Fit To Window" local="Fenster anpassen" />
+            <item name="Text Color" local="Text Farbe" />
+            <item name="Background Color" local="Hintergrundfabe" />
+            <item name="Default Color" local="Standardfarbe" />
+            <item name="Searching %d/%d" local="Suchen %d/%d" />
+            <item name="Open dictionary failed: target not exist!" local="Wörterbuch kann nicht geöffnet werden: Datei existiert nicht" />
+            <item name="Open dictionary failed" local="Wörterbuch kann nicht geöffnet werden" />
+            <item name="Openning union group, this may take some time..." local="Das öffnen der Union Gruppe, kann einige Zeit dauern..." />
+            <item name="Headword '%s' not found" local="Kann nicht gefunnden werden '%s'" />
+            <item name="Please select a dictionary first" local="Bitte wählen Sie erst ein Wörterbuch aus" />
+            <item name="gray" local="grau"/>
+            <item name="green" local="grün"/>
+            <item name="blue" local="blau"/>
+            <item name="black" local="schwarz"/>
+            <item name="white" local="weiss"/>
+            <item name="silver" local="silber"/>
+            <item name="purple" local="lila"/>
+            <item name="olive" local="oliv"/>
+            <item name="red" local="rot"/>
+            <item name="yellow" local="gelb"/>
+            <item name="aqua" local="hellblau"/>
+            <item name="navy" local="Marineblau"/>
+            <item name="teal" local="Cyan"/>
+            <item name="lime" local="zitronengelb"/>
+            <item name="fuchsia" local="rosa"/>
+            <item name="maroon" local="weinrot"/>
+
+            <item name="Put current entry in middle of keyword list. (Non-Union library only)" local="Zeige aktuelle Position in der Mitte der Schlüsselwortliste (Nur ein einziges Wort)" />
+            <item name="&amp;Navigation" local="Steuerung (&amp;N)" />
+            <item name="Previous Entry" local="Vorheriger Eintrag" />
+            <item name="Next Entry" local="Nächster Eintrag" />
+            <item name="Import from directory:" local="Import Wörterbuch:"/>
+            <item name="Fail to open audio library: %s, %s" local="Die Audio-Bibiliothek kann nicht geöffnet werden: %s, %s"/>
+
+            <item name="Fail to read file" local="Datei kann nicht gelesen werden" />
+            <item name="Fail to open file" local="Datei kann nicht geöffnet werden" />
+            <item name="Fail to read file" local="Datei kann nicht gelesen werden" />
+            <item name="Key not found" local="Schlüssel nicht gefunden" />
+            <item name="Invalid header" local="Ungültiger Datensatz" />
+            <item name="Invalid format" local="Ungültiges Format" />
+            <item name="Invalid parameter" local="Ungültiger Parameter" />
+            <item name="Parameter out of range" local="Parameter ausserhalb der Limits" />
+            <item name="CRC error" local="CRC Fehler" />
+            <item name="Decompression error" local="Dekompressionsfehler" />
+            <item name="Dictionary not initialized" local="Wörterbuch nicht eingebunden" />
+            <item name="Incorrect dictionary serial number" local="Falsche Seriennummer" />
+            <item name="Memory error" local="Speicher Fehler" />
+            <item name="Unsupported format" local="Nicht unterstützte Format" />
+            <item name="Invalid style sheet" local="Ungültiger Formatvorlage" />
+            <item name="Unsupported function" local="Nicht unterstützte Funktionen" />
+            <item name="Program HotKey" local="Shortcut Hotkey" />
+        </general>
+        <unit id="">
+        </unit>
+    </language>
+
+    <language id="English">
+
+    </language>
+</localization>
